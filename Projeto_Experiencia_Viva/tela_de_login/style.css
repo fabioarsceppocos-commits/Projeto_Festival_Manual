@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(imagem/01.1_fundo_login_festival_experiencia_viva.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: hidden;
+    
+}
+
+.login{
+    background: white;
+    width: 22%;
+    height: 220px;
+    border-radius: 10px;
+    display: grid;
+    text-align: center;
+    justify-content: center; 
+    padding: 20px;
+    margin-block: 10px 20px;  
+}
+
+
+button{
+    border-radius: 5px;
+    background-color: rgba(6, 6, 112, 0.644);
+}
